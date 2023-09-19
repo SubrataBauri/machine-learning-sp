@@ -8,3 +8,5 @@
 ![image](2-cost.png)
 ![image](3-cost-contour.png)
 ![image](4-super-bowl.png)
+
+## Gradient Descent: gradient-descent-v1.py
