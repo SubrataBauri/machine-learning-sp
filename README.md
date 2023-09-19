@@ -10,3 +10,5 @@
 ![image](4-super-bowl.png)
 
 ## Gradient Descent: gradient-descent-v1.py
+![image](5.png)
+![image](6.png)
