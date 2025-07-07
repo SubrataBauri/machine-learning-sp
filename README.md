@@ -1,4 +1,3 @@
-# Machine Learning Specialization
 
 ## Model representation: linear-regression.py output
 ![image](images/1.png)
