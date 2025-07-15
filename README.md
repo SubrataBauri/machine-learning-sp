@@ -11,3 +11,7 @@
 ## Gradient Descent: gradient-descent.py
 ![image](images/5.png)
 ![image](images/6.png)
+
+## Logistic Regression Gradient Descent:
+![image](images/Logistic-regression.png)
+![image](images/Logistic-regression-gradient-descent.png)
