@@ -14,4 +14,4 @@
 
 ## Logistic Regression Gradient Descent:
 ![image](images/Logistic-regression.png)
-![image](images/Logistic-regression-gradient-descent.png)
+![image](images/Logistic-regression-logCost-gradient-descent.png)
